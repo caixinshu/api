@@ -1,0 +1,7 @@
+Sat, 02 Jul 2016 23:26:47 baidutest.py[line:19] INFO aaaaaaaaaaaaaaaaaa
+Sat, 02 Jul 2016 23:26:47 remote_connection.py[line:409] DEBUG POST http://127.0.0.1:57416/hub/session/d0e243de-4c68-4524-9138-1fbedaea4473/element {"using": "id", "sessionId": "d0e243de-4c68-4524-9138-1fbedaea4473", "value": "file"}
+Sat, 02 Jul 2016 23:26:47 remote_connection.py[line:502] DEBUG Finished Request
+Sat, 02 Jul 2016 23:26:47 remote_connection.py[line:409] DEBUG POST http://127.0.0.1:57416/hub/session/d0e243de-4c68-4524-9138-1fbedaea4473/element/{642c30ff-7f49-4ded-8255-1b0d2571ddff}/click {"sessionId": "d0e243de-4c68-4524-9138-1fbedaea4473", "id": "{642c30ff-7f49-4ded-8255-1b0d2571ddff}"}
+Sat, 02 Jul 2016 23:26:47 remote_connection.py[line:502] DEBUG Finished Request
+Sat, 02 Jul 2016 23:26:49 baidutest.py[line:27] WARNING bbbbbbbbbbbbbbbbbbb
+Sat, 02 Jul 2016 23:26:49 baidutest.py[line:30] DEBUG cccccccccccccccc

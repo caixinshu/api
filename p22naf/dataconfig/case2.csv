@@ -1,0 +1,14 @@
+id,模块,url,是否运行,请求类型,是否携带header,case依赖,依赖的返回数据,数据依赖字段,请求数据,预期结果,实际结果
+Imooc-01,登录,http://m.imooc.com/passport/user/login,yes,Post,no,,,,user,select * from web_user where Name='mushishi',pass
+Imooc-02,手机登录,http://www.imooc.com/api3/userloginbyemail,yes,Post,,,,,user1,"""uid"": ""5249201""",
+Imooc-03,实战list,http://www.imooc.com/api3/getbanneradvertver2,yes,Post,,,,,szlist,"""uid"": ""5249202""",
+Imooc-4,课程信息,http://class.imooc.com/api/scinfo,yes,Post,,,,,coureinfo,"""uid"": ""5249203""",
+Imooc-5,课程类型,http://www.imooc.com/api3/newgetcoursetype,yes,Post,,,,,coursetype,"""uid"": ""5249204""",
+Imooc-6,课程list,http://www.imooc.com/api3/courselistinfo,yes,Post,,,,,courseList,"""uid"": ""5249205""",
+Imooc-8,获取课程信息,http://www.imooc.com/api3/getcourseintro,yes,Post,,,,,getcourseinfo,"""uid"": ""5249206""",
+Imooc-9,获取课程章节信息,http://www.imooc.com/api3/getmedialist,yes,Post,,,,,getmedialist,"""uid"": ""5249207""",
+Imooc-10,收藏课程,http://www.imooc.com/api3/follow,yes,Post,,,,,follow,"""uid"": ""5249208""",
+Imooc-11,下单,http://order.imooc.com/api/pay/submitorder,yes,Post,,,,,shop,"""uid"": ""5249201""",
+Imooc-12,支付,http://order.imooc.com/api/pay/pay,yes,Post,,Imooc-11,data.out_trade_no,trade_number,buy,"""uid"": ""5249200""",
+,,,,,,,,,,,
+,,,,,,,,,,,

@@ -1,0 +1,16 @@
+admin
+test
+guest
+manager
+administrator
+aaa
+academia
+anything
+coffee
+computer
+cookie
+oracle
+password
+secret
+super
+Unknown

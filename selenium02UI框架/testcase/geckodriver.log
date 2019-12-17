@@ -1,0 +1,203 @@
+1569551811358	geckodriver	INFO	Listening on 127.0.0.1:60737
+1569551814419	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1569551815649	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1569551816887	Marionette	INFO	Enabled via --marionette
+[Child 12920] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12920] WARNING: pipe error: 109: file z:/build/bui1569551822305	Marionette	INFO	Listening on port 60745
+1569551822842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1569551822923	Marionette	DEBUG	Register listener.js for window 4294967297
+1569551823038	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1569551823978	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1569551823978	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1569551823988	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://sahitest.com/demo/index.htm"
+1569551824158	Marionette	DEBUG	Received DOM event "pageshow" for "http://sahitest.com/demo/index.htm"
+1569551824453	Marionette	DEBUG	Received DOM event "beforeunload" for "http://sahitest.com/demo/index.htm"
+1569551825600	Marionette	DEBUG	Received DOM event "pagehide" for "http://sahitest.com/demo/index.htm"
+1569551825600	Marionette	DEBUG	Received DOM event "unload" for "http://sahitest.com/demo/index.htm"
+1569551825619	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://sahitest.com/demo/alertTest.htm"
+1569551825622	Marionette	DEBUG	Received DOM event "pageshow" for "http://sahitest.com/demo/alertTest.htm"
+1569551836050	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+[Parent 14212] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2552] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2216] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569572414191	geckodriver	INFO	Listening on 127.0.0.1:52174
+1569572417174	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1569572417480	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1569572418185	Marionette	INFO	Enabled via --marionette
+[Child 14044] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14044] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1569572421265	Marionette	INFO	Listening on port 52182
+1569572421307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1569572421365	Marionette	DEBUG	Register listener.js for window 4294967297
+1569572421406	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1569572422296	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1569572422297	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1569572423078	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1569572424835	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 92: TypeError: this.tabTarget is null
+[Child 11440] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9184] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9184] WARNING: pipe er
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1569572577132	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1569572578008	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1569572584194	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Parent 9484] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1569572591296	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1569573263330	geckodriver	INFO	Listening on 127.0.0.1:53476
+1569573266372	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1569573266652	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1569573267603	Marionette	INFO	Enabled via --marionette
+[Child 11732] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11732] WARNING: pipe error: 109: fil1569573270989	Marionette	INFO	Listening on port 53486
+1569573271645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1569573271696	Marionette	DEBUG	Register listener.js for window 4294967297
+1569573271766	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1569573271957	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1569573271958	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1569573370061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://openstore.91msp.com:81/"
+1569573370064	Marionette	DEBUG	Received DOM event "pageshow" for "http://openstore.91msp.com:81/"
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+[Parent 6232] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6232] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rtProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1569573571920	Marionette	INFO	Enabled via --marionette
+[Child 3068] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3068] WARNING: pipe error: 109: file z:/build/build/src/ipc/ch1569573574588	Marionette	INFO	Listening on port 53698
+1569573575086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1569573575134	Marionette	DEBUG	Register listener.js for window 6442450945
+1569573575180	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1569573575306	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1569573575306	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1569573576412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.baidu.com/"
+1569573576696	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.baidu.com/"
